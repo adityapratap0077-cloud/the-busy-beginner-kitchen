@@ -2,7 +2,7 @@
 ### 99 Fast, Easy Meals for Work • Hostel • Living Solo
 #### *Less time. Fewer dishes. Real food.*
 
-![Cover](images/cozy_cookbook_cover.webp)
+![Cover](cozy_cookbook_cover.webp)
 
 > **Stop wondering what to cook. Just pick a recipe.**
 
@@ -27,7 +27,7 @@ This is not your typical cookbook with chef jargon. This is a **survival guide**
 
 ### 🎨 Pinterest Aesthetic
 
-![Avocado Toast](images/avocado_toast_flatlay.webp)
+![Avocado Toast](avocado_toast_flatlay.webp)
 
 | Section | Color | Recipes |
 |---------|-------|---------|
@@ -45,7 +45,7 @@ This is not your typical cookbook with chef jargon. This is a **survival guide**
 
 | Breakfast | Rice Bowl | Noodles |
 |-----------|-----------|---------|
-| ![Breakfast](images/avocado_toast_flatlay.webp) | ![Rice](images/cozy_rice_bowl.webp) | ![Noodles](images/cozy_noodles_flatlay.webp) |
+| ![Breakfast](avocado_toast_flatlay.webp) | ![Rice](cozy_rice_bowl.webp) | ![Noodles](cozy_noodles_flatlay.webp) |
 
 ---
 
@@ -55,14 +55,9 @@ This is not your typical cookbook with chef jargon. This is a **survival guide**
 📦 THE-BUSY-BEGINNER-KITCHEN/
 ├── index.html — Pinterest designer website (GitHub Pages ready)
 ├── README.md
-├── pdfs/
-│   ├── THE_BUSY_BEGINNER_KITCHEN_Full_Detailed_No_Blank.pdf — ⭐ RECOMMENDED - Small image top-right, full detailed, no blank, one page per recipe
-│   └── THE_BUSY_BEGINNER_KITCHEN_Pinterest_Book_Format.pdf — Proper book format with TOC, sections, decision tree
-└── images/
-    ├── cozy_cookbook_cover.webp
-    ├── avocado_toast_flatlay.webp
-    ├── cozy_rice_bowl.webp
-    └── cozy_noodles_flatlay.webp
+├── THE_BUSY_BEGINNER_KITCHEN_Full_Detailed_No_Blank.pdf — ⭐ RECOMMENDED - Small image top-right, full detailed, no blank, one page per recipe
+├── THE_BUSY_BEGINNER_KITCHEN_Pinterest_Book_Format.pdf — Proper book format with TOC, sections, decision tree
+└── (recipe photos live at repo root)
 ```
 
 ---
@@ -83,12 +78,12 @@ Every recipe = one page, image + complete recipe together, no splitting!
 1. Create new repo: `the-busy-beginner-kitchen`
 2. Upload all files from zip
 3. Settings → Pages → Source: main branch → / (root)
-4. Live at `https://yourusername.github.io/the-busy-beginner-kitchen/`
+4. Live at `https://adityapratap0077-cloud.github.io/the-busy-beginner-kitchen/` once Pages is enabled
 5. `index.html` is Pinterest designer website already
 
-**For PDFs:** Link in README `[Download Full Detailed PDF](pdfs/THE_BUSY_BEGINNER_KITCHEN_Full_Detailed_No_Blank.pdf)`
+**For PDFs:** Link in README `[Download Full Detailed PDF](THE_BUSY_BEGINNER_KITCHEN_Full_Detailed_No_Blank.pdf)`
 
-**For Gumroad/KDP:** Use PDFs in `/pdfs/` — sell-ready, page numbers, footer, cover, TOC, no web names, premium.
+**For Gumroad/KDP:** Use the PDFs at the repo root — sell-ready, page numbers, footer, cover, TOC, no web names, premium.
 
 ---
 
