@@ -53,20 +53,20 @@ This is not your typical cookbook with chef jargon. This is a **survival guide**
 
 ```
 📦 THE-BUSY-BEGINNER-KITCHEN/
-├── index.html — Pinterest designer website (GitHub Pages ready)
+├── index.html: Pinterest designer website (GitHub Pages ready)
 ├── README.md
-├── THE_BUSY_BEGINNER_KITCHEN_Full_Detailed_No_Blank.pdf — ⭐ RECOMMENDED - Small image top-right, full detailed, no blank, one page per recipe
-├── THE_BUSY_BEGINNER_KITCHEN_Pinterest_Book_Format.pdf — Proper book format with TOC, sections, decision tree
+├── THE_BUSY_BEGINNER_KITCHEN_Full_Detailed_No_Blank.pdf: ⭐ RECOMMENDED - Small image top-right, full detailed, no blank, one page per recipe
+├── THE_BUSY_BEGINNER_KITCHEN_Pinterest_Book_Format.pdf: Proper book format with TOC, sections, decision tree
 └── (recipe photos live at repo root)
 ```
 
 ---
 
-### 🌟 Featured — One Page Per Recipe
+### 🌟 Featured: One Page Per Recipe
 
 **01 - 3-Minute Garlic Butter Toasted Eggs**
 - Tiny image 85x52px top-right corner only
-- Left: Complete ingredients — 1 slice bread thick, 1 egg, 1 tsp butter, 1 garlic clove, salt pepper
+- Left: Complete ingredients: 1 slice bread thick, 1 egg, 1 tsp butter, 1 garlic clove, salt pepper
 - Right: Full detailed steps with HEAT LOW 1-3 / MED 4-6 / HIGH 7-9 + LOOK/SOUND + DONE + RESCUE + SWAPS + STORAGE
 
 Every recipe = one page, image + complete recipe together, no splitting!
@@ -83,7 +83,7 @@ Every recipe = one page, image + complete recipe together, no splitting!
 
 **For PDFs:** Link in README `[Download Full Detailed PDF](THE_BUSY_BEGINNER_KITCHEN_Full_Detailed_No_Blank.pdf)`
 
-**For Gumroad/KDP:** Use the PDFs at the repo root — sell-ready, page numbers, footer, cover, TOC, no web names, premium.
+**For Gumroad/KDP:** Use the PDFs at the repo root, sell-ready, page numbers, footer, cover, TOC, no web names, premium.
 
 ---
 
@@ -119,15 +119,15 @@ ALMOST NOTHING → 1,2,5,9,10,13,21,79,89,90,98
 | Chef words | Stir every 20-30 sec 3-4 min soft glossy light sizzle |
 | No heat guidance | LOW 1-3 no sizzle, MED 4-6 oil glossy, HIGH 7-9 loud crackle |
 | No rescue | UH-OH RESCUE 3 specific fixes for THAT recipe |
-| Generic storage | STORAGE accurate — rice don't leave >1 hr room temp |
+| Generic storage | STORAGE accurate: rice don't leave >1 hr room temp |
 
 ---
 
 ### 📸 Aesthetic
 
-Pinterest editorial — warm cream #FFF8F0, charcoal text, serif Playfair Display, sans Inter, soft shadows, thin color accent left border, polaroid cards, subtle washi tape — NOT childish stickers. Worth paying for.
+Pinterest editorial: warm cream #FFF8F0, charcoal text, serif Playfair Display, sans Inter, soft shadows, thin color accent left border, polaroid cards, subtle washi tape, NOT childish stickers. Worth paying for.
 
-Real flat-lay photography — avocado toast, rice bowl, noodles bowl.
+Real flat-lay photography: avocado toast, rice bowl, noodles bowl.
 
 ---
 
@@ -151,4 +151,4 @@ Created for busy beginners who come home tired and still want real food.
 
 ### ⭐ Star this repo if it helped you cook!
 
-Made for GitHub Pages — just upload and enable Pages.
+Made for GitHub Pages: just upload and enable Pages.
